@@ -354,8 +354,8 @@ Problem-02-Coin-Simulation/
 
 │
 ├── coin.c
+├── coin.exe
 ├── coin.dat
-├── coin.gnu
 ├── coin.gnu
 └── README.md
 ```
