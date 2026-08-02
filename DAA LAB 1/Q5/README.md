@@ -284,7 +284,7 @@ Binary Search is more efficient for large sorted arrays.
 ## Compile
 
 ```bash
-gcc partition.c -o partition
+gcc Transition.c -o Transition
 ```
 
 ---
@@ -294,13 +294,13 @@ gcc partition.c -o partition
 ### Windows
 
 ```bash
-partition.exe
+Transition.exe
 ```
 
 ### Linux/Mac
 
 ```bash
-./partition
+./Transition
 ```
 
 ---
@@ -311,8 +311,8 @@ partition.exe
 Problem-05-Partition-Point/
 
 │
-├── partition.c
-├── partition.exe
+├── Transition.c
+├── Transition.exe
 └── README.md
 ```
 
