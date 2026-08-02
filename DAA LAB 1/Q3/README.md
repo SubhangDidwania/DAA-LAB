@@ -239,7 +239,7 @@ The number of comparisons increases rapidly with input size.
 The growth follows:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 ---
@@ -276,19 +276,19 @@ performance can be achieved.
 Worst Case:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 Average Case:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 Best Case:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 ---
@@ -308,13 +308,13 @@ when the array is already sorted.
 Average Case:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 Worst Case:
 
 [
-O(n^2)
+$O(n^2)$
 ]
 
 ---
