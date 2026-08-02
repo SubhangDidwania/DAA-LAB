@@ -232,11 +232,11 @@ gnuplot -persist growth.gnu
 
 ```
 Problem-01-Growth-Rate/
-
 │
 ├── growth.c
 ├── growth.dat
 ├── growth.gnu
+├── plot.gnu
 └── README.md
 ```
 
