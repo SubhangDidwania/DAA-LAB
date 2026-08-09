@@ -80,6 +80,16 @@ DAA/
 
 ---
 
+## Lab 02 — Divide and Conquer & Data Structure Analysis
+
+| Problem | Concepts Covered | Analysis / Visualization |
+|---------|------------------|--------------------------|
+| Dictionary ADT Complexity Analysis | • Unsorted Array<br>• Sorted Array<br>• Singly Linked Lists<br>• Doubly Linked Lists<br>• Dictionary Operations<br>• Search, Insert, Delete<br>• Minimum, Maximum, Predecessor, Successor | • Complexity comparison<br>• Experimental validation<br>• GNUPlot visualization |
+| Merge Sort Comparison | • Divide and Conquer<br>• Standard Merge Sort<br>• Three-way Merge Sort<br>• Recursion Analysis<br>• Comparison Counting | • Comparison count analysis<br>• Growth rate comparison<br>• Complexity validation |
+| k-Way Merge | • k-Way Merging<br>• Sequential Merging<br>• Pairwise Merging<br>• Divide and Conquer Strategy<br>• Merge Analysis | • Comparison counting<br>• Performance comparison<br>• GNUPlot visualization |
+
+---
+
 # 🛠️ Technologies Used
 
 ## Programming Language
